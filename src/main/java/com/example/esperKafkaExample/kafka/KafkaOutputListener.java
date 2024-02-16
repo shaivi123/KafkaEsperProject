@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.kafka;
+package com.example.esperKafkaExample.kafka;
 
 import com.espertech.esper.common.client.EventBean;
 import com.espertech.esper.common.client.render.JSONEventRenderer;
@@ -10,7 +10,7 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import static de.luc.weinbrecht.esperKafkaExample.utils.Utils.buildOutputString;
+import static com.example.esperKafkaExample.utils.Utils.buildOutputString;
 
 public class KafkaOutputListener implements UpdateListener {
 

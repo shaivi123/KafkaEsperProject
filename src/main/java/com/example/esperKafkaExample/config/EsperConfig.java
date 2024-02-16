@@ -1,10 +1,10 @@
-package de.luc.weinbrecht.esperKafkaExample.config;
+package com.example.esperKafkaExample.config;
 
 import com.espertech.esper.common.client.configuration.Configuration;
 import com.espertech.esperio.kafka.*;
-import de.luc.weinbrecht.esperKafkaExample.kafka.KafkaEventConsumer;
-import de.luc.weinbrecht.esperKafkaExample.kafka.KafkaEventProducer;
-import de.luc.weinbrecht.esperKafkaExample.kafka.KafkaInputProcessor;
+import com.example.esperKafkaExample.kafka.KafkaEventProducer;
+import com.example.esperKafkaExample.kafka.KafkaEventConsumer;
+import com.example.esperKafkaExample.kafka.KafkaInputProcessor;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.OffsetResetStrategy;
 import org.apache.kafka.clients.producer.ProducerConfig;
@@ -16,7 +16,7 @@ import org.slf4j.LoggerFactory;
 import java.util.Properties;
 import java.util.UUID;
 
-import static de.luc.weinbrecht.esperKafkaExample.config.KafkaConfig.BOOTSTRAP_ADDRESS;
+import static com.example.esperKafkaExample.config.KafkaConfig.BOOTSTRAP_ADDRESS;
 
 public class EsperConfig {
 

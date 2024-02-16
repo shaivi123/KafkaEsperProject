@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c0b86a6-12b2-49d1-abc5-7a637429b4d4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/filter/WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/filter/WordFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/rest/StatementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/rest/StatementController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/utils/EPLUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/luc/weinbrecht/esperKafkaExample/utils/EPLUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/esper.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/esper.cfg.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708061361978</updated>
-      <workItem from="1708061363249" duration="11223000" />
+      <workItem from="1708061363249" duration="12000000" />
     </task>
     <servers />
   </component>

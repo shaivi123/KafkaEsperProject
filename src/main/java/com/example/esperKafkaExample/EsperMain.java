@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample;
+package com.example.esperKafkaExample;
 
 
 import com.espertech.esper.common.client.EPCompiled;
@@ -8,12 +8,12 @@ import com.espertech.esper.runtime.client.EPDeployment;
 import com.espertech.esper.runtime.client.EPRuntime;
 import com.espertech.esper.runtime.client.EPRuntimeProvider;
 import com.espertech.esper.runtime.client.EPStatement;
-import de.luc.weinbrecht.esperKafkaExample.config.EsperConfig;
-import de.luc.weinbrecht.esperKafkaExample.utils.EPLUtil;
+import com.example.esperKafkaExample.config.EsperConfig;
+import com.example.esperKafkaExample.utils.EPLUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import static de.luc.weinbrecht.esperKafkaExample.config.EsperConfig.RUNTIME_URI;
+import static com.example.esperKafkaExample.config.EsperConfig.RUNTIME_URI;
 
 public class EsperMain {
 

@@ -4,10 +4,10 @@
                      xsi:schemaLocation="http://esper.espertech.com/schema/esper/esper-configuration-8-0.xsd">
     <compiler>
         <plugin-singlerow-function name="getLengthOfString"
-                                   function-class="de.luc.weinbrecht.esperKafkaExample.filter.WordFilter" function-method="getLengthOfString"
+                                   function-class="com.example.esperKafkaExample.filter.WordFilter" function-method="getLengthOfString"
                                    filter-optimizable="disabled" />
         <plugin-singlerow-function name="toLower"
-                                   function-class="de.luc.weinbrecht.esperKafkaExample.filter.WordFilter" function-method="toLower"
+                                   function-class="com.example.esperKafkaExample.filter.WordFilter" function-method="toLower"
                                    filter-optimizable="disabled" />
     </compiler>
 </esper-configuration>

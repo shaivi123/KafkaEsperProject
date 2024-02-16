@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.filter;
+package com.example.esperKafkaExample.filter;
 
 import com.espertech.esper.common.client.EventBean;
 

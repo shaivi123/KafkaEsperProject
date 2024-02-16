@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.rest;
+package com.example.esperKafkaExample.rest;
 
 public class Statement {
     private String name;

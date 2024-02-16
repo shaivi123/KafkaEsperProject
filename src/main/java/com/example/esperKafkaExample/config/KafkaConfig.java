@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.config;
+package com.example.esperKafkaExample.config;
 
 public class KafkaConfig {
     public final static String[] INPUT_TOPICS = {"input"};

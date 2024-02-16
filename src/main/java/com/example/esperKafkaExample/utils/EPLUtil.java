@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.utils;
+package com.example.esperKafkaExample.utils;
 
 import com.espertech.esper.common.client.EPCompiled;
 import com.espertech.esper.common.client.configuration.Configuration;

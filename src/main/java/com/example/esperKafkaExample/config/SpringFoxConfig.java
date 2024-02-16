@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.config;
+package com.example.esperKafkaExample.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

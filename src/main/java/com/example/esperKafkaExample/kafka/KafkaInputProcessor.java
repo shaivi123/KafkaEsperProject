@@ -1,9 +1,9 @@
-package de.luc.weinbrecht.esperKafkaExample.kafka;
+package com.example.esperKafkaExample.kafka;
 
 import com.espertech.esper.runtime.client.EPRuntime;
 import com.espertech.esperio.kafka.EsperIOKafkaInputProcessor;
 import com.espertech.esperio.kafka.EsperIOKafkaInputProcessorContext;
-import de.luc.weinbrecht.esperKafkaExample.config.EsperConfig;
+import com.example.esperKafkaExample.config.EsperConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
 import org.slf4j.Logger;

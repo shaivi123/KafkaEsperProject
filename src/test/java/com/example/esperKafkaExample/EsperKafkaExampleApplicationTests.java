@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample;
+package com.example.esperKafkaExample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

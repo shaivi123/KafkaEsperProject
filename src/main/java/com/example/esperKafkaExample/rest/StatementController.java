@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.rest;
+package com.example.esperKafkaExample.rest;
 
 import com.espertech.esper.common.client.EPCompiled;
 import com.espertech.esper.common.client.EventBean;
@@ -7,8 +7,8 @@ import com.espertech.esper.runtime.client.EPDeployment;
 import com.espertech.esper.runtime.client.EPRuntime;
 import com.espertech.esper.runtime.client.EPRuntimeProvider;
 import com.espertech.esper.runtime.client.EPStatement;
-import de.luc.weinbrecht.esperKafkaExample.config.EsperConfig;
-import de.luc.weinbrecht.esperKafkaExample.utils.EPLUtil;
+import com.example.esperKafkaExample.config.EsperConfig;
+import com.example.esperKafkaExample.utils.EPLUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import javax.validation.Valid;
 
-import static de.luc.weinbrecht.esperKafkaExample.config.EsperConfig.RUNTIME_URI;
+import static com.example.esperKafkaExample.config.EsperConfig.RUNTIME_URI;
 
 @RestController
 @RequestMapping("/api")
@@ -29,7 +29,7 @@ public class StatementController {
 
     private static final Logger log = LoggerFactory.getLogger(StatementController.class);
 
-    // TODO: Works only for upcoming Events ...
+
     @PostMapping(value = "/statements", consumes = MediaType.APPLICATION_JSON_VALUE)
     public ResponseEntity create(@Valid @RequestBody Statement statement) {
         Configuration configuration = EsperConfig.getConfiguration();

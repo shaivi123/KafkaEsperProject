@@ -1,4 +1,4 @@
-package de.luc.weinbrecht.esperKafkaExample.kafka;
+package com.example.esperKafkaExample.kafka;
 
 import com.espertech.esper.common.internal.epl.annotation.AnnotationUtil;
 import com.espertech.esper.runtime.client.*;
@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 import java.lang.annotation.Annotation;
 import java.util.Iterator;
 
-import static de.luc.weinbrecht.esperKafkaExample.config.KafkaConfig.OUTPUT_TOPICS;
+import static com.example.esperKafkaExample.config.KafkaConfig.OUTPUT_TOPICS;
 
 public class KafkaEventProducer implements EsperIOKafkaOutputFlowController {
 
