@@ -1,0 +1,14 @@
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\config\EsperConfig.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\utils\Utils.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\kafka\KafkaInputProcessor.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\kafka\KafkaEventProducer.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\kafka\KafkaOutputListener.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\config\SpringFoxConfig.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\rest\Statement.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\EsperKafkaExampleApplication.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\utils\EPLUtil.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\config\KafkaConfig.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\EsperMain.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\filter\WordFilter.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\kafka\KafkaEventConsumer.java
+D:\Workspace\POCs\POCs\POCs\EsperNew@\Esper-Kafka-Example\src\main\java\de\luc\weinbrecht\esperKafkaExample\rest\StatementController.java
